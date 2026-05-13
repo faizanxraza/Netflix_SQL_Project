@@ -253,6 +253,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## 👤 Author & Contact
 
 **Faizan Raza**
+
 Data Analytics Enthusiast | Excel • Power BI • SQL • Python
 
 - **LinkedIn:** https://www.linkedin.com/in/faizan-raza-fai20/
