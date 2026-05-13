@@ -250,7 +250,17 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## 👤 Author & Contact
 
+**Faizan Raza**
+Data Analytics Enthusiast | Excel • Power BI • SQL • Python
+
+- **LinkedIn:** https://www.linkedin.com/in/faizan-raza-fai20/
+- **GitHub:** https://github.com/faizanxraza
+- **Email:** faizanraza0660@gmail.com
+
+
+*If you found this project helpful or insightful, consider giving it a star on GitHub!*
 
 
 
